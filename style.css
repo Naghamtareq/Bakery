@@ -1,0 +1,234 @@
+ul {
+  margin: auto;
+  padding: 10px;
+  background-color: transparent;
+  text-align: right;
+}
+.navbar li {
+  display: inline;
+}
+.navbar li a {
+  padding: 10px;
+  text-decoration: none;
+  color: #fff;
+}
+body {
+  margin: auto;
+}
+
+.intro {
+  text-align: center;
+}
+.intro h1 {
+  font-size: 70px;
+  color: #fff;
+}
+.intro p {
+  font-size: 25px;
+  padding: 10px;
+  color: #fff;
+}
+button {
+  padding: 12px 10px;
+  margin: 20px 0px;
+}
+.learnbt {
+  border: none;
+  background-color: #c7aa54;
+  border-radius: 3px;
+}
+.contactbt {
+  background-color: transparent;
+  border-radius: 3px;
+
+  border-color: white;
+}
+.shape {
+  border-radius: 25px;
+  background-color: transparent;
+  border-color: #fff;
+}
+
+.section1 {
+  background-image: url("imgs/drew-coffman-1872.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.section2 img {
+  width: 40%;
+  padding: 48px;
+  float: left;
+}
+.text {
+  padding: 40px;
+}
+.text h2 {
+  text-align: center;
+}
+.text p {
+  font-size: 18px;
+  text-align: center;
+}
+.clr {
+  clear: both;
+}
+.list {
+  text-align: center;
+}
+.list li {
+  text-align: left;
+  font-size: 20px;
+  list-style: none;
+  background-image: url(imgs/bakery-color.png);
+  background-size: 30px;
+  background-repeat: no-repeat;
+  background-position: 46%;
+}
+
+.location img {
+  width: 40%;
+  padding: 48px;
+  float: right;
+}
+.location p {
+  text-align: center;
+  padding: 10px;
+}
+.location h2 {
+  text-align: center;
+  padding: 10px;
+}
+.bakeitem {
+  width: 33%;
+  float: left;
+}
+.bakeitem img {
+  width: 80%;
+  padding: 20px;
+}
+.baking {
+  text-align: center;
+}
+.bakeitem {
+  text-align: center;
+}
+.bakeitem p {
+  padding: 15px;
+}
+.map {
+  position: relative;
+  text-align: right;
+  width: 600px;
+  height: 550px;
+  float: right;
+  margin-right: 7%;
+}
+.mapcanv {
+  overflow: hidden;
+  background: none !important;
+  width: 600px;
+  height: 400px;
+}
+iframe {
+  width: 60% !important;
+  height: 4000px !important;
+}
+.infocon h3 {
+  text-align: center;
+  margin-left: 10px;
+  font-size: 20px;
+}
+.infocon p {
+  text-align: center;
+  margin-left: 48px;
+  font-size: 20px;
+}
+.infolist p {
+  margin-left: 50px;
+  font-size: 20px;
+}
+.infoulist {
+  float: left;
+  list-style: none;
+}
+.infoulist ul {
+  padding-left: 48px;
+}
+.listone {
+  text-align: left;
+}
+.infoulist li {
+  font-size: 20px;
+  margin-left: 20px;
+  padding-left: 20px;
+  background-image: url(imgs/bakery-color.png);
+  background-size: 30px;
+  background-repeat: no-repeat;
+  background-position: 7%;
+}
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  opacity: 70%;
+}
+.location {
+  background-color: #fbfbfb;
+}
+.loc {
+  background-color: #fbfbfb;
+}
+.footer {
+  background-color: #403d38;
+}
+.footer {
+  color: #fff;
+  padding: 40px;
+  font-size: 18px;
+}
+.footer li {
+  opacity: 50%;
+}
+.footer a {
+  color: #fff;
+}
+.footer ul {
+  list-style: square;
+  text-align: left;
+}
+.about {
+  width: 23%;
+  float: left;
+  margin: 10px;
+}
+.about p {
+  opacity: 50%;
+  width: 70%;
+}
+.special {
+  width: 23%;
+  float: left;
+  margin: 10px;
+}
+.opening {
+  width: 23%;
+  float: right;
+  margin: 10px;
+}
+.contdet {
+  width: 23%;
+  float: right;
+  margin: 10px;
+}
+.contdet a {
+  text-decoration: none;
+}
+.end {
+  background-color: #353330;
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+}
+.end img {
+  padding: 50px 20px;
+  width: 20%;
+}
